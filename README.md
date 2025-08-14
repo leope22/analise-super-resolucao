@@ -52,3 +52,8 @@ O código-fonte e os scripts principais estão neste repositório. No entanto, p
     O artigo completo detalhando a metodologia, os experimentos e as conclusões aprofundadas do projeto está disponível para leitura no Google Drive.
 
     **[➡️ Ler Relatório Completo](https://drive.google.com/file/d/1otVqIMjMSv1AmK-gBXa4XNwfBRWJ1vb3/view?usp=sharing)**
+
+### 👨‍💻 Autores
+
+* **Leonardo Pedro** - [GitHub](https://github.com/leope22)
+* **Laura Naomi** - [GitHub](https://github.com/lauranaomiseto)
